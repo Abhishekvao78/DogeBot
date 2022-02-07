@@ -1,9 +1,9 @@
 {
-  "name": "whatsapp-bot",
-  "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/Abhishekvao78/DogeBot",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
+  "name": "fox",
+  "description": "fox is a bot made with baileys",
+  "repository": "https://github.com/Abhishekvao78/sc-english",
+  "logo": "https://telegra.ph/file/f40d0ef77439f516c050f.jpg",
+  "keywords": ["fox", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
